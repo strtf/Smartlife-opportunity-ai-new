@@ -1,0 +1,8 @@
+{
+  "name": "SmartLife Opportunity AI",
+  "short_name": "SmartLife AI",
+  "start_url": "./",
+  "display": "standalone",
+  "background_color": "#101a35",
+  "theme_color": "#101a35"
+}
